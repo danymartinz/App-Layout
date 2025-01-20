@@ -1,16 +1,5 @@
-# myapp
+# Atividade 2: Criar um programa que crie um Layout responsivo para a criação futuros aplicativos WEB
 
-A new Flutter project.
+ATIVIDADE:
+A atividade “O primeiro programa utilizando Flutter e os procedimentos necessários para fazer o deploy no servidor GitHub” deverá ser realizada através da criação de um aplicativo WEB simples, que crie um Layout responsivo, e sua publicação no Github.io, depois de criada e hospedada o aplicativo, o aluno deverá disponibilizar o link de acesso para este aplicativo, bem como o repositório onde o mesmo está armazenado.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
